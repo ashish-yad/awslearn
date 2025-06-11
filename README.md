@@ -1,0 +1,2 @@
+# awslearn
+static website
